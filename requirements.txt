@@ -4,7 +4,8 @@ boto==2.49.0
 boto-utils==0.3
 boto3==1.21.25
 botocore==1.24.25
-certifi==2022.6.15
+#certifi==2022.6.15
+certifi==2023.07.22
 charset-normalizer==2.1.0
 configparse==0.1.5
 Deprecated==1.2.13
